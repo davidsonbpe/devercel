@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Devercel01</h1>
+    return <h1>NEXT.JS</h1>
 }
 
 export default Home
